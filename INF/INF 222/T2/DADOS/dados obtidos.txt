@@ -1,0 +1,111 @@
+							QUARTO
+Qual planilha deseja testar:(quarto, quarto24, sala, ana, uso) quarto
+Digite o valor de H0:(<0) 120
+Download NÃO segue uma Distribuição Normal
+Upload NÃO segue uma Distribuição Normal
+
+Tamanho amostra:  158
+Pvalue (Downloads) = 7.962510798566516e-28              Pvalue (Uploads) = 5.545992309005117e-28
+
+					 COMPARAÇÃO QUARTO X QUARTO24
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) quarto         
+
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) quarto24
+
+-------------------------------------------------- ---Teste da soma dos postos--- --------------------------------------------------
+--------------------------------------------------- Teste ----- quarto > quarto24 ---- ---------------------------------------------
+Pvalue (Downloads) = 2.1812713693245517e-06             Pvalue (Uploads) = 2.3875080118507154e-06
+
+************************************************************************************************************************************
+							QUARTO24
+Qual planilha deseja testar:(quarto, quarto24, sala, ana, uso) quarto24
+Digite o valor de H0:(<0) 120
+
+Download NÃO segue uma Distribuição Normal
+Upload segue uma Distribuição Normal
+
+Tamanho amostra:  15
+Pvalue (Downloads) = 3.0517578125e-05           Pvalue (Uploads) = 3.0517578125e-05
+
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) quarto24
+
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) sala
+
+-------------------------------------------------- ---Teste da soma dos postos--- --------------------------------------------------
+--------------------------------------------------- Teste ----- quarto24 > sala ---- -----------------------------------------------
+Pvalue (Downloads) = 0.9999989763883528         Pvalue (Uploads) = 0.9999998982722693
+
+-------------------------------------------------- Teste de comparação das médias --------------------------------------------------
+------------------------------ Download -------------------------- -------------------------- Upload -------------------------------
+|||||||||||||||||||| -200.34 <= µ1 - µ2 <= 58.06 ||||||||||||||||||||||||||||||||| -67.524 <= µ1 - µ2 <= -44.792 |||||||||||||||||||
+
+************************************************************************************************************************************
+							SALA
+
+Qual planilha deseja testar:(quarto, quarto24, sala, ana, uso) sala
+Digite o valor de H0:(<0) 120
+
+Download segue uma Distribuição Normal
+Upload segue uma Distribuição Normal
+
+Tamanho amostra:  24
+Pvalue (Downloads) = 0.7805347442626953         Pvalue (Uploads) = 1.1920928955078125e-07
+
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) sala
+
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) ana
+
+-------------------------------------------------- ---Teste da soma dos postos--- --------------------------------------------------
+--------------------------------------------------- Teste ----- sala > ana ---- ----------------------------------------------------
+Pvalue (Downloads) = 0.9999998982722693         Pvalue (Uploads) = 0.9999998982722693
+
+-------------------------------------------------- Teste de comparação das médias --------------------------------------------------
+------------------------------ Download -------------------------- -------------------------- Upload -------------------------------
+|||||||||||||||||||| -500.17 <= µ1 - µ2 <= -8.4835 ||||||||||||||||||||||||||||||||| -106.13 <= µ1 - µ2 <= -7.0224 |||||||||||||||||
+
+************************************************************************************************************************************
+							ANA
+
+Qual planilha deseja testar:(quarto, quarto24, sala, ana, uso) ana
+Digite o valor de H0:(<0) 300
+
+Download segue uma Distribuição Normal
+Upload segue uma Distribuição Normal
+
+Tamanho amostra:  15
+Pvalue (Downloads) = 1.0                Pvalue (Uploads) = 3.0517578125e-05
+
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) ana
+
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) uso
+
+-------------------------------------------------- ---Teste da soma dos postos--- --------------------------------------------------
+--------------------------------------------------- Teste ----- ana > uso ---- -----------------------------------------------------
+Pvalue (Downloads) = 8.106319162877048e-08              Pvalue (Uploads) = 8.106319162877048e-08
+
+-------------------------------------------------- Teste de comparação das médias --------------------------------------------------
+------------------------------ Download -------------------------- -------------------------- Upload -------------------------------
+|||||||||||||||||||| 236.25 <= µ1 - µ2 <= 493.11 ||||||||||||||||||||||||||||||||| 94.551 <= µ1 - µ2 <= 152.65 |||||||||||||||||||||
+
+************************************************************************************************************************************
+							USO
+Qual planilha deseja testar:(quarto, quarto24, sala, ana, uso) uso
+Digite o valor de H0:(<0) 120
+
+Download segue uma Distribuição Normal
+Upload segue uma Distribuição Normal
+
+Tamanho amostra:  25
+Pvalue (Downloads) = 2.9802322387695312e-08             Pvalue (Uploads) = 2.9802322387695312e-08
+
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) uso
+
+Qual planilha deseja comparar:(quarto, quarto24, sala, ana, uso) quarto
+
+-------------------------------------------------- ---Teste da soma dos postos--- --------------------------------------------------
+--------------------------------------------------- Teste ----- uso > quarto ---- --------------------------------------------------
+Pvalue (Downloads) = 0.9999999999999986         Pvalue (Uploads) = 0.9999999999819402
+
+
+
+

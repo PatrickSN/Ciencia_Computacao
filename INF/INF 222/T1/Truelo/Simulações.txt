@@ -1,0 +1,19 @@
+SIMULAÇÕES EM QUE C ATIRA NO TRUELO: (PRECISÃO DE C = 2/6)
+A sobrevive 37 vezes, B sobrevive 20 vezes, C sobrevive 43 vezes (Simulação de 100 repetições » C atira: S), 
+A sobrevive 409 vezes, B sobrevive 190 vezes, C sobrevive 401 vezes (Simulação de 1000 repetições » C atira: S), 
+A sobrevive 41143 vezes, B sobrevive 18115 vezes, C sobrevive 40742 vezes (Simulação de 100000 repetições » C atira: S), 
+A sobrevive 411984 vezes, B sobrevive 180066 vezes, C sobrevive 407950 vezes (Simulação de 1000000 repetições » C atira: S), 
+
+SIMULAÇÕES EM QUE C NÃO ATIRA NO TRUELO: (PRECISÃO DE C = 2/6)
+A sobrevive 39 vezes, B sobrevive 15 vezes, C sobrevive 46 vezes (Simulação de 100 repetições » C atira: N), 
+A sobrevive 427 vezes, B sobrevive 186 vezes, C sobrevive 387 vezes (Simulação de 1000 repetições » C atira: N), 
+A sobrevive 40188 vezes, B sobrevive 18511 vezes, C sobrevive 41301 vezes (Simulação de 100000 repetições » C atira: N), 
+A sobrevive 403657 vezes, B sobrevive 184048 vezes, C sobrevive 412295 vezes (Simulação de 1000000 repetições » C atira: N), 
+
+SIMULAÇÕES EM QUE C ATIRA NO TRUELO: (PRECISÃO DE C = 3/6)
+A sobrevive 297842 vezes, B sobrevive 129176 vezes, C sobrevive 572982 vezes (Simulação de 1000000 repetições » C atira: S), 
+A sobrevive 282082 vezes, B sobrevive 133365 vezes, C sobrevive 584553 vezes (Simulação de 1000000 repetições » C atira: N), 
+
+SIMULAÇÕES EM QUE C ATIRA NO TRUELO: (PRECISÃO DE C = 4/6)
+A sobrevive 211228 vezes, B sobrevive 258941 vezes, C sobrevive 529831 vezes (Simulação de 1000000 repetições » C atira: N), 
+A sobrevive 231803 vezes, B sobrevive 249303 vezes, C sobrevive 518894 vezes (Simulação de 1000000 repetições » C atira: S), 
