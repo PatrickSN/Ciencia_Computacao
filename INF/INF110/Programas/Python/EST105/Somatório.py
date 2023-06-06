@@ -40,7 +40,7 @@ for j in range(Ls):
 qtd_r = int(input("Digite o número de restrições: "))
 r = []
 for i in range(qtd_r):
-    r.append(int(input(f"Digite a {i} restição: ")))
+    r.append(int(input(f"Digite a {i} restrição: ")))
 
 print(soma_simples(x, Ls, Li, r))
 print(soma_dos_quadrados(x, Ls, Li, r))

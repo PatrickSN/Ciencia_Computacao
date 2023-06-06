@@ -27,7 +27,7 @@ def multiplica(linhaA, colunaB, n, matrizA, matrizB):
 
 
 def imprime(matriz, linha, coluna, nome):
-    print("O resultado de {nome} é igual a: ")
+    print(f"O resultado de {nome} é igual a: ")
     for i in range(0, linha):
         print(46*" ", end="")
         for j in range(0, coluna):
